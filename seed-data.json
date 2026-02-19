@@ -1,0 +1,5145 @@
+[
+  {
+    "id": "12194837",
+    "companyName": "102 ROOKERY LTD",
+    "companyNumber": "12194837",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "90 Wallis Road Main Yard Studios, E9 5LN",
+    "incorporationDate": "2019-09-06",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-09-19",
+    "confirmationStatementLastMadeUpTo": "2025-09-05",
+    "directors": [
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2019-09-06"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-09-25",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-12-18",
+        "type": "AAMD",
+        "description": "accounts-amended-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-10-08",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "11584510",
+    "companyName": "35 BOW ROAD LTD",
+    "companyNumber": "11584510",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios, E9 5LN",
+    "incorporationDate": "2018-09-24",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-10-07",
+    "confirmationStatementLastMadeUpTo": "2025-09-23",
+    "directors": [
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2018-09-24"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-09-25",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-12-18",
+        "type": "AAMD",
+        "description": "accounts-amended-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-10-30",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "09374133",
+    "companyName": "3D SHAPIE LIMITED",
+    "companyNumber": "09374133",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "428 Chertsey Road, TW2 6LP",
+    "incorporationDate": "2015-01-05",
+    "nextAccountsDueDate": "2026-10-31",
+    "lastAccountsMadeUpTo": "2025-01-31",
+    "nextConfirmationStatementDueDate": "2027-01-19",
+    "confirmationStatementLastMadeUpTo": "2026-01-05",
+    "directors": [
+      {
+        "name": "MALVISI, Geoffrey Peter",
+        "appointmentDate": "2015-01-05"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-30",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-11-24",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-10-18",
+        "type": "DISS40",
+        "description": "gazette-filings-brought-up-to-date"
+      },
+      {
+        "date": "2025-10-15",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2025-04-10",
+        "type": "DISS16(SOAS)",
+        "description": "dissolved-compulsory-strike-off-suspended"
+      }
+    ]
+  },
+  {
+    "id": "13739640",
+    "companyName": "58B ALEXANDRA ROAD LIMITED",
+    "companyNumber": "13739640",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios Wallis Road, E9 5LN",
+    "incorporationDate": "2021-11-12",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-11-25",
+    "confirmationStatementLastMadeUpTo": "2025-11-11",
+    "directors": [
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2021-11-12"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-12-09",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-20",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2024-12-20",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "13328319",
+    "companyName": "ALARIS CAPITAL LTD",
+    "companyNumber": "13328319",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2021-04-12",
+    "nextAccountsDueDate": "2027-01-31",
+    "lastAccountsMadeUpTo": "2025-04-30",
+    "nextConfirmationStatementDueDate": "2026-04-25",
+    "confirmationStatementLastMadeUpTo": "2025-04-11",
+    "directors": [
+      {
+        "name": "BEBNEV, Yevgeny",
+        "appointmentDate": "2021-04-12"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2026-01-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-09-06",
+        "type": "DISS40",
+        "description": "gazette-filings-brought-up-to-date"
+      },
+      {
+        "date": "2025-09-05",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-04-10",
+        "type": "DISS16(SOAS)",
+        "description": "dissolved-compulsory-strike-off-suspended"
+      }
+    ]
+  },
+  {
+    "id": "15558026",
+    "companyName": "ALARIS HQ LTD",
+    "companyNumber": "15558026",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2024-03-12",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-03-25",
+    "confirmationStatementLastMadeUpTo": "2025-03-11",
+    "directors": [
+      {
+        "name": "BEBNEV, Yevgeny",
+        "appointmentDate": "2024-03-12"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-11-28",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2025-04-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-03-12",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "12663108",
+    "companyName": "AMERICAN TREASURES LTD",
+    "companyNumber": "12663108",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2020-06-11",
+    "nextAccountsDueDate": "2026-03-31",
+    "lastAccountsMadeUpTo": "2024-06-30",
+    "nextConfirmationStatementDueDate": "2026-09-22",
+    "confirmationStatementLastMadeUpTo": "2025-09-08",
+    "directors": [
+      {
+        "name": "ATKINSON, Sarah",
+        "appointmentDate": "2020-06-11"
+      },
+      {
+        "name": "HERNANDEZ, Cristina",
+        "appointmentDate": "2020-06-11"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-29",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-10-29",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-10-17",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-03-16",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2023-09-22",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "05442766",
+    "companyName": "ARGYLE HOUSING GROUP LIMITED",
+    "companyNumber": "05442766",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "2 Woodberry Grove, N12 0DR",
+    "incorporationDate": "2005-05-04",
+    "nextAccountsDueDate": "2026-03-31",
+    "lastAccountsMadeUpTo": "2024-06-30",
+    "nextConfirmationStatementDueDate": "2026-05-09",
+    "confirmationStatementLastMadeUpTo": "2025-04-25",
+    "directors": [
+      {
+        "name": "O'CONNOR, Matthew",
+        "appointmentDate": "2012-11-01"
+      },
+      {
+        "name": "WILKIN, Julian Thomas",
+        "appointmentDate": "2008-04-01"
+      },
+      {
+        "name": "L M SECRETARIES LIMITED",
+        "appointmentDate": "2005-05-04"
+      },
+      {
+        "name": "MARI ASSOCIATES LLP",
+        "appointmentDate": "2010-11-30"
+      },
+      {
+        "name": "TEMPLE SECRETARIES LIMITED",
+        "appointmentDate": "2005-05-04"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-05-23",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-03-24",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-05-22",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-03-16",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2023-05-11",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "12273977",
+    "companyName": "BE CREATIVE HUB LTD",
+    "companyNumber": "12273977",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "12 Cody Road, E16 4SR",
+    "incorporationDate": "2019-10-22",
+    "nextAccountsDueDate": "2026-07-31",
+    "lastAccountsMadeUpTo": "2024-10-31",
+    "nextConfirmationStatementDueDate": "2026-11-16",
+    "confirmationStatementLastMadeUpTo": "2025-11-02",
+    "directors": [
+      {
+        "name": "CIARAMICOLI CABRAL, Bruno",
+        "appointmentDate": "2019-10-22"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-27",
+        "type": "DISS40",
+        "description": "gazette-filings-brought-up-to-date"
+      },
+      {
+        "date": "2026-01-26",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2026-01-20",
+        "type": "GAZ1",
+        "description": "gazette-notice-compulsory"
+      },
+      {
+        "date": "2025-07-16",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2025-01-29",
+        "type": "DISS40",
+        "description": "gazette-filings-brought-up-to-date"
+      }
+    ]
+  },
+  {
+    "id": "06542579",
+    "companyName": "BEACH CONSULTANTS LTD",
+    "companyNumber": "06542579",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "103 Chetwynd Road, NW5 1DA",
+    "incorporationDate": "2008-03-25",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-04-08",
+    "confirmationStatementLastMadeUpTo": "2025-03-25",
+    "directors": [
+      {
+        "name": "VISCOVICH, Tanya",
+        "appointmentDate": "2008-03-25"
+      },
+      {
+        "name": "WOOTLIFF, Matthew James",
+        "appointmentDate": "2008-03-25"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-28",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-04-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-17",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-04-15",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-12-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "15153386",
+    "companyName": "BELIER LIMITED",
+    "companyNumber": "15153386",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Flat 33 3 Martel Place, E8 2FQ",
+    "incorporationDate": "2023-09-21",
+    "nextAccountsDueDate": "2026-06-30",
+    "lastAccountsMadeUpTo": "2024-09-30",
+    "nextConfirmationStatementDueDate": "2026-10-04",
+    "confirmationStatementLastMadeUpTo": "2025-09-20",
+    "directors": [
+      {
+        "name": "OUADNOUNI, Sara",
+        "appointmentDate": "2023-09-21"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-31",
+        "type": "DISS40",
+        "description": "gazette-filings-brought-up-to-date"
+      },
+      {
+        "date": "2026-01-30",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-12-09",
+        "type": "GAZ1",
+        "description": "gazette-notice-compulsory"
+      },
+      {
+        "date": "2025-06-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-10-02",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "12796174",
+    "companyName": "BETTERPROPERTY MANAGEMENT LTD",
+    "companyNumber": "12796174",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2020-08-06",
+    "nextAccountsDueDate": "2026-05-31",
+    "lastAccountsMadeUpTo": "2024-08-31",
+    "nextConfirmationStatementDueDate": "2026-08-19",
+    "confirmationStatementLastMadeUpTo": "2025-08-05",
+    "directors": [
+      {
+        "name": "AHMED, Abubakar",
+        "appointmentDate": "2020-08-06"
+      },
+      {
+        "name": "AVERY, Greig",
+        "appointmentDate": "2020-08-06"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-08-01",
+        "type": "MR01",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date"
+      },
+      {
+        "date": "2025-06-04",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-09-04",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-05-28",
+        "type": "MR01",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date"
+      }
+    ]
+  },
+  {
+    "id": "15940170",
+    "companyName": "BIRKBECK DESIGN ENGINEERING UK LTD",
+    "companyNumber": "15940170",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2024-09-06",
+    "nextAccountsDueDate": "2026-06-06",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "2027-02-13",
+    "confirmationStatementLastMadeUpTo": "2026-01-30",
+    "directors": [
+      {
+        "name": "BIRKBECK, Daniel Robert Clarry",
+        "appointmentDate": "2024-09-06"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-30",
+        "type": "CS01",
+        "description": "confirmation-statement-with-updates"
+      },
+      {
+        "date": "2025-09-05",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-09-06",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "04227657",
+    "companyName": "BLUE PERSONNEL LIMITED",
+    "companyNumber": "04227657",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "101 Green Street, TW16 6RD",
+    "incorporationDate": "2001-06-04",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-07-01",
+    "confirmationStatementLastMadeUpTo": "2025-06-17",
+    "directors": [
+      {
+        "name": "COLLIS, Claire Ann",
+        "appointmentDate": "2001-06-04"
+      },
+      {
+        "name": "COLLIS, Claire Ann",
+        "appointmentDate": "2001-06-04"
+      },
+      {
+        "name": "COLLIS, Mark",
+        "appointmentDate": "2001-06-04"
+      },
+      {
+        "name": "ALPHA SECRETARIAL LIMITED",
+        "appointmentDate": "2001-06-04"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-03",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-06-17",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-06-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-11-08",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-07-05",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "10514436",
+    "companyName": "BS EVENTS PRODUCTION LTD",
+    "companyNumber": "10514436",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Studio 119 12 Cody Road, E16 4SR",
+    "incorporationDate": "2016-12-07",
+    "nextAccountsDueDate": "2026-09-30",
+    "lastAccountsMadeUpTo": "2024-12-31",
+    "nextConfirmationStatementDueDate": "2025-12-15",
+    "confirmationStatementLastMadeUpTo": "2024-12-01",
+    "directors": [
+      {
+        "name": "CABRAL, Bruno Ciaramicoli",
+        "appointmentDate": "2016-12-07"
+      },
+      {
+        "name": "BANGURA, Sam",
+        "appointmentDate": "2016-12-07"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-07-16",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2025-01-28",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-09-30",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2023-12-20",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-09-13",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      }
+    ]
+  },
+  {
+    "id": "10347308",
+    "companyName": "BSMNT LTD",
+    "companyNumber": "10347308",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Unit 6 Leeds Place, N4 3RF",
+    "incorporationDate": "2016-08-26",
+    "nextAccountsDueDate": "2026-05-31",
+    "lastAccountsMadeUpTo": "2024-08-31",
+    "nextConfirmationStatementDueDate": "2026-09-08",
+    "confirmationStatementLastMadeUpTo": "2025-08-25",
+    "directors": [
+      {
+        "name": "KARKALAS, Tomas",
+        "appointmentDate": "2016-08-26"
+      },
+      {
+        "name": "KARKALAITE, Simona",
+        "appointmentDate": "2025-09-15"
+      },
+      {
+        "name": "KARKALAITE, Simona",
+        "appointmentDate": "2023-05-09"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-04",
+        "type": "TM01",
+        "description": "termination-director-company-with-name-termination-date"
+      },
+      {
+        "date": "2025-09-15",
+        "type": "AP01",
+        "description": "appoint-person-director-company-with-name-date"
+      },
+      {
+        "date": "2025-09-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-05-23",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-total-exemption-full"
+      },
+      {
+        "date": "2024-09-30",
+        "type": "MR04",
+        "description": "mortgage-satisfy-charge-full"
+      }
+    ]
+  },
+  {
+    "id": "13398593",
+    "companyName": "BUNANDA HOLDINGS LTD",
+    "companyNumber": "13398593",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "39 Lancaster Road, W11 1QJ",
+    "incorporationDate": "2021-05-14",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-05-27",
+    "confirmationStatementLastMadeUpTo": "2025-05-13",
+    "directors": [
+      {
+        "name": "JAYASURIYA, Nikita Ilie",
+        "appointmentDate": "2021-05-14"
+      },
+      {
+        "name": "MCADAM, Clare",
+        "appointmentDate": "2021-05-14"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-09",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-05-23",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-11",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-05-29",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-02-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "12798938",
+    "companyName": "CARLTON FREEMAN INVESTMENTS LTD",
+    "companyNumber": "12798938",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios Unit D3 Studio Db12, E9 5LN",
+    "incorporationDate": "2020-08-07",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-08-20",
+    "confirmationStatementLastMadeUpTo": "2025-08-06",
+    "directors": [
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2020-08-07"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-11-05",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-11-01",
+        "type": "DISS40",
+        "description": "gazette-filings-brought-up-to-date"
+      },
+      {
+        "date": "2025-10-29",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-10-28",
+        "type": "GAZ1",
+        "description": "gazette-notice-compulsory"
+      }
+    ]
+  },
+  {
+    "id": "12749941",
+    "companyName": "CODY STUDIOS LTD",
+    "companyNumber": "12749941",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "8 Cody Road, E16 4SR",
+    "incorporationDate": "2020-07-17",
+    "nextAccountsDueDate": "2026-04-30",
+    "lastAccountsMadeUpTo": "2024-07-31",
+    "nextConfirmationStatementDueDate": "2026-06-24",
+    "confirmationStatementLastMadeUpTo": "2025-06-10",
+    "directors": [
+      {
+        "name": "AUGUSTO PACINI, Gustavo",
+        "appointmentDate": "2020-07-17"
+      },
+      {
+        "name": "CABRAL, Leandro Ciaramicoli",
+        "appointmentDate": "2020-07-17"
+      },
+      {
+        "name": "CIARAMICOLI CABRAL, Bruno",
+        "appointmentDate": "2020-07-17"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-06-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-04-30",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-04-10",
+        "type": "MA",
+        "description": "memorandum-articles"
+      },
+      {
+        "date": "2025-04-04",
+        "type": "RP04CS01",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date"
+      },
+      {
+        "date": "2025-04-03",
+        "type": "SH01",
+        "description": "capital-allotment-shares"
+      }
+    ]
+  },
+  {
+    "id": "15676410",
+    "companyName": "CODY STUDIOS SOUTH LONDON LTD",
+    "companyNumber": "15676410",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "12 Cody Road, E16 4SR",
+    "incorporationDate": "2024-04-24",
+    "nextAccountsDueDate": "2027-01-31",
+    "lastAccountsMadeUpTo": "2025-04-30",
+    "nextConfirmationStatementDueDate": "2026-05-07",
+    "confirmationStatementLastMadeUpTo": "2025-04-23",
+    "directors": [
+      {
+        "name": "AUGUSTO PACINI, Gustavo",
+        "appointmentDate": "2024-04-24"
+      },
+      {
+        "name": "CABRAL, Leandro Ciaramicoli",
+        "appointmentDate": "2024-04-24"
+      },
+      {
+        "name": "CIARAMICOLI CABRAL, Bruno",
+        "appointmentDate": "2024-04-24"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-15",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2025-05-08",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-04-24",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "15159101",
+    "companyName": "CODY STUDIOS SOUTH LTD",
+    "companyNumber": "15159101",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "8 Cody Road, E16 4SR",
+    "incorporationDate": "2023-09-23",
+    "nextAccountsDueDate": "2026-06-30",
+    "lastAccountsMadeUpTo": "2024-09-30",
+    "nextConfirmationStatementDueDate": "2026-10-06",
+    "confirmationStatementLastMadeUpTo": "2025-09-22",
+    "directors": [
+      {
+        "name": "AUGUSTO PACINI, Gustavo",
+        "appointmentDate": "2023-09-23"
+      },
+      {
+        "name": "CABRAL, Leandro Ciaramicoli",
+        "appointmentDate": "2023-09-23"
+      },
+      {
+        "name": "CIARAMICOLI CABRAL, Bruno",
+        "appointmentDate": "2023-09-23"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-11-14",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-06-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-total-exemption-full"
+      },
+      {
+        "date": "2024-11-18",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-09-23",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "12819102",
+    "companyName": "KATIE AVERY STUDIO LTD",
+    "companyNumber": "12819102",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "26a Eaton Road, BN3 3PJ",
+    "incorporationDate": "2020-08-17",
+    "nextAccountsDueDate": "2026-05-31",
+    "lastAccountsMadeUpTo": "2024-08-31",
+    "nextConfirmationStatementDueDate": "2026-08-30",
+    "confirmationStatementLastMadeUpTo": "2025-08-16",
+    "directors": [
+      {
+        "name": "AVERY, Katie",
+        "appointmentDate": "2020-08-17"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-05-08",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-11-13",
+        "type": "CERTNM",
+        "description": "certificate-change-of-name-company"
+      },
+      {
+        "date": "2024-11-13",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2024-09-04",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "10616077",
+    "companyName": "DAN FORD COACHING LTD.",
+    "companyNumber": "10616077",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "3 Warwick House, WR14 4RP",
+    "incorporationDate": "2017-02-13",
+    "nextAccountsDueDate": "2026-11-30",
+    "lastAccountsMadeUpTo": "2025-02-28",
+    "nextConfirmationStatementDueDate": "2027-02-17",
+    "confirmationStatementLastMadeUpTo": "2026-02-03",
+    "directors": [
+      {
+        "name": "FORD, Daniel",
+        "appointmentDate": "2017-02-13"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-02-03",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-11-24",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-02-12",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-11-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-02-29",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "09629612",
+    "companyName": "DAVID THWAITES PHYSIOTHERAPY LIMITED",
+    "companyNumber": "09629612",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "5 Crafts Way, NG25 0BL",
+    "incorporationDate": "2015-06-09",
+    "nextAccountsDueDate": "2026-03-31",
+    "lastAccountsMadeUpTo": "2024-06-30",
+    "nextConfirmationStatementDueDate": "2026-06-18",
+    "confirmationStatementLastMadeUpTo": "2025-06-04",
+    "directors": [
+      {
+        "name": "THWAITES, David Laurence",
+        "appointmentDate": "2015-06-09"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-06-18",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-03-14",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-06-23",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-03-08",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2023-06-26",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "13353409",
+    "companyName": "DS MUSHCO LTD",
+    "companyNumber": "13353409",
+    "companyStatus": "dissolved",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2021-04-23",
+    "nextAccountsDueDate": "N/A",
+    "lastAccountsMadeUpTo": "2024-04-30",
+    "nextConfirmationStatementDueDate": "N/A",
+    "confirmationStatementLastMadeUpTo": "2024-04-22",
+    "directors": [
+      {
+        "name": "SAHOTA, Harpreet James",
+        "appointmentDate": "2021-04-23"
+      },
+      {
+        "name": "SUDRA, Rishi Dilip",
+        "appointmentDate": "2021-04-23"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-23",
+        "type": "GAZ2",
+        "description": "gazette-dissolved-compulsory"
+      },
+      {
+        "date": "2025-07-08",
+        "type": "GAZ1",
+        "description": "gazette-notice-compulsory"
+      },
+      {
+        "date": "2024-11-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-06-12",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-07-28",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      }
+    ]
+  },
+  {
+    "id": "11748493",
+    "companyName": "ELLIE WITT LTD",
+    "companyNumber": "11748493",
+    "companyStatus": "dissolved",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Gate Heads, LA6 2SF",
+    "incorporationDate": "2019-01-03",
+    "nextAccountsDueDate": "N/A",
+    "lastAccountsMadeUpTo": "2024-01-31",
+    "nextConfirmationStatementDueDate": "N/A",
+    "confirmationStatementLastMadeUpTo": "2024-01-02",
+    "directors": [
+      {
+        "name": "WITT, Eleanor Josephine",
+        "appointmentDate": "2019-01-03"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-03-11",
+        "type": "GAZ2(A)",
+        "description": "gazette-dissolved-voluntary"
+      },
+      {
+        "date": "2024-12-24",
+        "type": "GAZ1(A)",
+        "description": "gazette-notice-voluntary"
+      },
+      {
+        "date": "2024-12-11",
+        "type": "DS01",
+        "description": "dissolution-application-strike-off-company"
+      },
+      {
+        "date": "2024-10-17",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-01-31",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "14353029",
+    "companyName": "EMPORIC LTD",
+    "companyNumber": "14353029",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2022-09-13",
+    "nextAccountsDueDate": "2026-06-30",
+    "lastAccountsMadeUpTo": "2024-09-30",
+    "nextConfirmationStatementDueDate": "2026-09-19",
+    "confirmationStatementLastMadeUpTo": "2025-09-05",
+    "directors": [
+      {
+        "name": "WINT, Brandon",
+        "appointmentDate": "2022-09-13"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-05",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-06-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-09-09",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-05-16",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2023-09-25",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "09404669",
+    "companyName": "FALCON WORKS LTD.",
+    "companyNumber": "09404669",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios Unit D3  Studio Db12, E9 5LN",
+    "incorporationDate": "2015-01-26",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-02-05",
+    "confirmationStatementLastMadeUpTo": "2025-01-22",
+    "directors": [
+      {
+        "name": "MARI ASSOCIATES LTD",
+        "appointmentDate": "2016-08-30"
+      },
+      {
+        "name": "BRAVERY, Victoria",
+        "appointmentDate": "2015-01-26"
+      },
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2015-01-26"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-02-26",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-15",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-01-15",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "09394489",
+    "companyName": "FREEMAN-PORTER LTD.",
+    "companyNumber": "09394489",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios Unit D3  Studio Db12, E9 5LN",
+    "incorporationDate": "2015-01-19",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2027-01-27",
+    "confirmationStatementLastMadeUpTo": "2026-01-13",
+    "directors": [
+      {
+        "name": "MARI ASSOCIATES LTD",
+        "appointmentDate": "2016-08-30"
+      },
+      {
+        "name": "BRAVERY, Victoria",
+        "appointmentDate": "2015-01-19"
+      },
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2015-01-19"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-02-06",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-01-15",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-01-14",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-14",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      }
+    ]
+  },
+  {
+    "id": "10294589",
+    "companyName": "GBL STUDIOS LTD",
+    "companyNumber": "10294589",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "12 Cody Road, E16 4SR",
+    "incorporationDate": "2016-07-25",
+    "nextAccountsDueDate": "2026-04-30",
+    "lastAccountsMadeUpTo": "2024-07-31",
+    "nextConfirmationStatementDueDate": "2026-08-14",
+    "confirmationStatementLastMadeUpTo": "2025-07-31",
+    "directors": [
+      {
+        "name": "CABRAL, Bruno Ciaramicoli",
+        "appointmentDate": "2020-02-05"
+      },
+      {
+        "name": "CABRAL, Leandro Ciaramicoli",
+        "appointmentDate": "2016-07-25"
+      },
+      {
+        "name": "PACINI, Gustavo Augusto",
+        "appointmentDate": "2016-07-25"
+      },
+      {
+        "name": "CABRAL, Bruno Ciaramicoli",
+        "appointmentDate": "2016-07-25"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-08-18",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-04-30",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-04-04",
+        "type": "RP04CS01",
+        "description": "second-filing-of-confirmation-statement-with-made-up-date"
+      },
+      {
+        "date": "2025-04-03",
+        "type": "SH01",
+        "description": "capital-allotment-shares"
+      },
+      {
+        "date": "2024-09-04",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "10619515",
+    "companyName": "GEMELLI CONTRACTS LTD",
+    "companyNumber": "10619515",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "29 Claremont Avenue, KT3 6QN",
+    "incorporationDate": "2017-02-14",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-03-08",
+    "confirmationStatementLastMadeUpTo": "2025-02-22",
+    "directors": [
+      {
+        "name": "BARCIA, Bianca Del Gallego",
+        "appointmentDate": "2017-02-14"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-15",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-03-14",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-09",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-03-20",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-12-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "09689336",
+    "companyName": "GEMELLI PROPERTIES LIMITED",
+    "companyNumber": "09689336",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "29 Claremont Avenue, KT3 6QN",
+    "incorporationDate": "2015-07-16",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-07-21",
+    "confirmationStatementLastMadeUpTo": "2025-07-07",
+    "directors": [
+      {
+        "name": "DEL GALLEGO BARCIA, Bianca",
+        "appointmentDate": "2015-07-16"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-15",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-07-22",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-09",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-07-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-12-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "15781791",
+    "companyName": "GLOBAL PROPERTY PROMOTIONS LTD",
+    "companyNumber": "15781791",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2024-06-16",
+    "nextAccountsDueDate": "2027-03-31",
+    "lastAccountsMadeUpTo": "2025-06-30",
+    "nextConfirmationStatementDueDate": "2026-06-24",
+    "confirmationStatementLastMadeUpTo": "2025-06-10",
+    "directors": [
+      {
+        "name": "REID, Ariel",
+        "appointmentDate": "2024-06-16"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-09",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-06-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-06-16",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "08325691",
+    "companyName": "HALF BAKED RECORDS LIMITED",
+    "companyNumber": "08325691",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "90 Main Yard, E9 5LN",
+    "incorporationDate": "2012-12-11",
+    "nextAccountsDueDate": "2025-12-31",
+    "lastAccountsMadeUpTo": "2024-03-31",
+    "nextConfirmationStatementDueDate": "2026-12-25",
+    "confirmationStatementLastMadeUpTo": "2025-12-11",
+    "directors": [
+      {
+        "name": "CIARAMICOLI CABRAL, Bruno",
+        "appointmentDate": "2012-12-11"
+      },
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2012-12-11"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-31",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-28",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-01-31",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-12-21",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "10251286",
+    "companyName": "HOXTON 177 LTD",
+    "companyNumber": "10251286",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "90 Wallis Road, E9 5LN",
+    "incorporationDate": "2016-06-25",
+    "nextAccountsDueDate": "2027-03-31",
+    "lastAccountsMadeUpTo": "2025-06-30",
+    "nextConfirmationStatementDueDate": "2026-06-30",
+    "confirmationStatementLastMadeUpTo": "2025-06-16",
+    "directors": [
+      {
+        "name": "CIARAMICOLI CABRAL, Bruno",
+        "appointmentDate": "2016-09-08"
+      },
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2016-06-25"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-06-27",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-07-29",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-02-27",
+        "type": "AAMD",
+        "description": "accounts-amended-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "09680861",
+    "companyName": "J & J (LONDON) ASSOCIATES LIMITED",
+    "companyNumber": "09680861",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2015-07-10",
+    "nextAccountsDueDate": "2026-04-30",
+    "lastAccountsMadeUpTo": "2024-07-31",
+    "nextConfirmationStatementDueDate": "2026-08-14",
+    "confirmationStatementLastMadeUpTo": "2025-07-31",
+    "directors": [
+      {
+        "name": "SAHOTA, Gurdeep Kaur",
+        "appointmentDate": "2018-06-21"
+      },
+      {
+        "name": "SAHOTA, Harpreet James",
+        "appointmentDate": "2020-05-17"
+      },
+      {
+        "name": "SAHOTA, Harpreet James",
+        "appointmentDate": "2015-07-10"
+      },
+      {
+        "name": "TEIDY, Jonathan",
+        "appointmentDate": "2015-07-10"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-07-08",
+        "type": "MR04",
+        "description": "mortgage-satisfy-charge-full"
+      },
+      {
+        "date": "2025-06-30",
+        "type": "MR01",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date"
+      },
+      {
+        "date": "2025-04-09",
+        "type": "MR04",
+        "description": "mortgage-satisfy-charge-full"
+      },
+      {
+        "date": "2025-04-09",
+        "type": "MR04",
+        "description": "mortgage-satisfy-charge-full"
+      }
+    ]
+  },
+  {
+    "id": "12623298",
+    "companyName": "J2 LIVING LIMITED",
+    "companyNumber": "12623298",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2020-05-26",
+    "nextAccountsDueDate": "2026-02-28",
+    "lastAccountsMadeUpTo": "2024-05-31",
+    "nextConfirmationStatementDueDate": "2026-06-08",
+    "confirmationStatementLastMadeUpTo": "2025-05-25",
+    "directors": [
+      {
+        "name": "SAHOTA, Gurdeep Kaur",
+        "appointmentDate": "2020-05-26"
+      },
+      {
+        "name": "SAHOTA, Harpreet James",
+        "appointmentDate": "2020-05-26"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-06-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-02-27",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-06-12",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-02-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2023-06-15",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "09407191",
+    "companyName": "JONATHAN PRESTWICH LIMITED",
+    "companyNumber": "09407191",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "23 Overcliff Road, SE13 7UB",
+    "incorporationDate": "2015-01-26",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2027-02-05",
+    "confirmationStatementLastMadeUpTo": "2026-01-22",
+    "directors": [
+      {
+        "name": "DOERENBECHER, Anne Maud Jeanne",
+        "appointmentDate": "2017-06-01"
+      },
+      {
+        "name": "PRESTWICH, Jonathan Stephen",
+        "appointmentDate": "2015-01-26"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-02-05",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2026-02-04",
+        "type": "CH01",
+        "description": "change-person-director-company-with-change-date"
+      },
+      {
+        "date": "2026-02-04",
+        "type": "PSC04",
+        "description": "change-to-a-person-with-significant-control"
+      },
+      {
+        "date": "2026-02-03",
+        "type": "PSC01",
+        "description": "notification-of-a-person-with-significant-control"
+      },
+      {
+        "date": "2026-02-03",
+        "type": "CH01",
+        "description": "change-person-director-company-with-change-date"
+      }
+    ]
+  },
+  {
+    "id": "16553877",
+    "companyName": "JW THERAPY & CONSULTING LTD",
+    "companyNumber": "16553877",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2025-07-01",
+    "nextAccountsDueDate": "2027-04-01",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "2026-07-14",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "WRIGHT, Julian",
+        "appointmentDate": "2025-07-01"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-07-01",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "07132920",
+    "companyName": "K MALVISI LIMITED",
+    "companyNumber": "07132920",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "20 Bramley Close, TW2 7EU",
+    "incorporationDate": "2010-01-22",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2027-02-05",
+    "confirmationStatementLastMadeUpTo": "2026-01-22",
+    "directors": [
+      {
+        "name": "MALVISI, Kathryn",
+        "appointmentDate": "2010-01-22"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-02-16",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-12-03",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-02-18",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-02-18",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-11-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "13961820",
+    "companyName": "KITE MAVERICKS LTD",
+    "companyNumber": "13961820",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2022-03-08",
+    "nextAccountsDueDate": "2026-09-30",
+    "lastAccountsMadeUpTo": "2024-12-31",
+    "nextConfirmationStatementDueDate": "2026-03-21",
+    "confirmationStatementLastMadeUpTo": "2025-03-07",
+    "directors": [
+      {
+        "name": "LOMAX, Tristan",
+        "appointmentDate": "2022-03-08"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-16",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-03-31",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-17",
+        "type": "AA01",
+        "description": "change-account-reference-date-company-current-shortened"
+      },
+      {
+        "date": "2024-12-17",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-04-15",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "05538601",
+    "companyName": "LEVEL GROUP LTD",
+    "companyNumber": "05538601",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "3 Warwick House, WR14 4RP",
+    "incorporationDate": "2005-08-17",
+    "nextAccountsDueDate": "2026-05-31",
+    "lastAccountsMadeUpTo": "2024-08-31",
+    "nextConfirmationStatementDueDate": "2026-08-30",
+    "confirmationStatementLastMadeUpTo": "2025-08-16",
+    "directors": [
+      {
+        "name": "FORD, Dan",
+        "appointmentDate": "2005-08-17"
+      },
+      {
+        "name": "FORD, Dan",
+        "appointmentDate": "2005-08-17"
+      },
+      {
+        "name": "SHUTTES, Ben",
+        "appointmentDate": "2005-08-17"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-08-18",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-05-28",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-08-16",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-05-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2023-08-31",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "14237884",
+    "companyName": "LIBERO 33 LTD",
+    "companyNumber": "14237884",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2022-07-15",
+    "nextAccountsDueDate": "2026-04-30",
+    "lastAccountsMadeUpTo": "2024-07-31",
+    "nextConfirmationStatementDueDate": "2026-07-28",
+    "confirmationStatementLastMadeUpTo": "2025-07-14",
+    "directors": [
+      {
+        "name": "HOULIHAN, Thomas Austin",
+        "appointmentDate": "2022-07-15"
+      },
+      {
+        "name": "KAIKINI, Sunil",
+        "appointmentDate": "2022-07-15"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-11-14",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-07-16",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-03-20",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2023-07-19",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "14046074",
+    "companyName": "LIBERO 33 MEDIA LIMITED",
+    "companyNumber": "14046074",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2022-04-13",
+    "nextAccountsDueDate": "2027-01-31",
+    "lastAccountsMadeUpTo": "2025-04-30",
+    "nextConfirmationStatementDueDate": "2026-04-03",
+    "confirmationStatementLastMadeUpTo": "2025-03-20",
+    "directors": [
+      {
+        "name": "HOULIHAN, Thomas Austin",
+        "appointmentDate": "2022-05-20"
+      },
+      {
+        "name": "KAIKINI, Sunil",
+        "appointmentDate": "2022-05-20"
+      },
+      {
+        "name": "MARI, Benjamin Anthony",
+        "appointmentDate": "2022-04-13"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-04-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-09",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-04-15",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "13951728",
+    "companyName": "LYRIAT LTD",
+    "companyNumber": "13951728",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2022-03-03",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-03-16",
+    "confirmationStatementLastMadeUpTo": "2025-03-02",
+    "directors": [
+      {
+        "name": "SCHNEIDER-LUFTMAN, Deborah",
+        "appointmentDate": "2022-03-03"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-07-30",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-03-31",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-11-23",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-03-20",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-11-29",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "08680420",
+    "companyName": "MAINYARD COMMUNITY",
+    "companyNumber": "08680420",
+    "companyStatus": "active",
+    "companyType": "private-limited-guarant-nsc-limited-exemption",
+    "registeredOfficeAddress": "90 Wallis Road, E9 5LN",
+    "incorporationDate": "2013-09-06",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-09-20",
+    "confirmationStatementLastMadeUpTo": "2025-09-06",
+    "directors": [
+      {
+        "name": "BRAVERY, Victoria",
+        "appointmentDate": "2013-09-06"
+      },
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2013-10-01"
+      },
+      {
+        "name": "REWRIE, Paul Eugene",
+        "appointmentDate": "2013-09-06"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2025-09-25",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-11-11",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-12-21",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "08368478",
+    "companyName": "MAINYARD STUDIOS LTD",
+    "companyNumber": "08368478",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios Unit D3  Studio Db12, E9 5LN",
+    "incorporationDate": "2013-01-21",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2027-02-05",
+    "confirmationStatementLastMadeUpTo": "2026-01-22",
+    "directors": [
+      {
+        "name": "MARI ASSOCIATES LTD",
+        "appointmentDate": "2016-08-30"
+      },
+      {
+        "name": "BRAVERY, Victoria",
+        "appointmentDate": "2013-01-21"
+      },
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2013-01-21"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-02-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-02-26",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-15",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-01-15",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      }
+    ]
+  },
+  {
+    "id": "08483355",
+    "companyName": "MARI ASSOCIATES LTD",
+    "companyNumber": "08483355",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2013-04-11",
+    "nextAccountsDueDate": "2027-01-31",
+    "lastAccountsMadeUpTo": "2025-04-30",
+    "nextConfirmationStatementDueDate": "2026-04-25",
+    "confirmationStatementLastMadeUpTo": "2025-04-11",
+    "directors": [
+      {
+        "name": "MARI, Benjamin Anthony",
+        "appointmentDate": "2013-04-11"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-30",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-04-30",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-30",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-05-08",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-01-30",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "10122566",
+    "companyName": "MILGATE STORAGE LTD",
+    "companyNumber": "10122566",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "5 Webb Close, CT19 5LN",
+    "incorporationDate": "2016-04-13",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-04-25",
+    "confirmationStatementLastMadeUpTo": "2025-04-11",
+    "directors": [
+      {
+        "name": "BARTLETT, Andrew",
+        "appointmentDate": "2016-04-13"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-24",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-04-11",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-10-17",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-04-24",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-11-07",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "11387251",
+    "companyName": "MISS REPRESENTED LTD",
+    "companyNumber": "11387251",
+    "companyStatus": "dissolved",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "111 Greenbank Avenue, BN2 8QP",
+    "incorporationDate": "2018-05-29",
+    "nextAccountsDueDate": "N/A",
+    "lastAccountsMadeUpTo": "2023-05-31",
+    "nextConfirmationStatementDueDate": "N/A",
+    "confirmationStatementLastMadeUpTo": "2023-05-21",
+    "directors": [
+      {
+        "name": "MARI, Benjamin",
+        "appointmentDate": "2018-05-29"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2024-10-22",
+        "type": "GAZ2",
+        "description": "gazette-dissolved-compulsory"
+      },
+      {
+        "date": "2024-08-06",
+        "type": "GAZ1",
+        "description": "gazette-notice-compulsory"
+      },
+      {
+        "date": "2024-02-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2023-07-19",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-02-11",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      }
+    ]
+  },
+  {
+    "id": "14693530",
+    "companyName": "MJ REAL ESTATE ADVISORY LTD",
+    "companyNumber": "14693530",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2023-02-28",
+    "nextAccountsDueDate": "2026-11-30",
+    "lastAccountsMadeUpTo": "2025-02-28",
+    "nextConfirmationStatementDueDate": "2026-04-29",
+    "confirmationStatementLastMadeUpTo": "2025-04-15",
+    "directors": [
+      {
+        "name": "WADSWORTH JAKOBSEN, Marie Rohini",
+        "appointmentDate": "2023-02-28"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-11-24",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-total-exemption-full"
+      },
+      {
+        "date": "2025-04-15",
+        "type": "CS01",
+        "description": "confirmation-statement-with-updates"
+      },
+      {
+        "date": "2025-03-14",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-10-17",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-03-20",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "14921966",
+    "companyName": "MON AMI CONCIERGE LTD",
+    "companyNumber": "14921966",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2023-06-07",
+    "nextAccountsDueDate": "2026-03-31",
+    "lastAccountsMadeUpTo": "2024-06-30",
+    "nextConfirmationStatementDueDate": "2026-06-20",
+    "confirmationStatementLastMadeUpTo": "2025-06-06",
+    "directors": [
+      {
+        "name": "JAYASURIYA, Monique Helena Gregory",
+        "appointmentDate": "2023-06-07"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-07-30",
+        "type": "PSC04",
+        "description": "change-to-a-person-with-significant-control"
+      },
+      {
+        "date": "2025-07-30",
+        "type": "CH01",
+        "description": "change-person-director-company-with-change-date"
+      },
+      {
+        "date": "2025-07-30",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-06-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-03-06",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "12801205",
+    "companyName": "MYS 280 MARE STREET LTD",
+    "companyNumber": "12801205",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Studio 03 Mainyard Studios 35-37 Bow Road Storiicare, E3 2AD",
+    "incorporationDate": "2020-08-10",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-08-23",
+    "confirmationStatementLastMadeUpTo": "2025-08-09",
+    "directors": [
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2020-08-10"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-08-31",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-12-18",
+        "type": "AAMD",
+        "description": "accounts-amended-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-09-12",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "15781474",
+    "companyName": "MYS 5 ARGAL AVENUE LTD",
+    "companyNumber": "15781474",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios Unit D3, Curie House, E9 5LN",
+    "incorporationDate": "2024-06-16",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-06-29",
+    "confirmationStatementLastMadeUpTo": "2025-06-15",
+    "directors": [
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2024-06-16"
+      },
+      {
+        "name": "FREEMAN-PORTER LTD.",
+        "appointmentDate": "2024-06-16"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-11-14",
+        "type": "AA01",
+        "description": "change-account-reference-date-company-previous-shortened"
+      },
+      {
+        "date": "2025-08-04",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-06-16",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "13952899",
+    "companyName": "MYS 679 HIGH ROAD LTD",
+    "companyNumber": "13952899",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios Unit D3  Studio Db12, E9 5LN",
+    "incorporationDate": "2022-03-03",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-03-31",
+    "confirmationStatementLastMadeUpTo": "2025-03-17",
+    "directors": [
+      {
+        "name": "BRAVERY, Victoria",
+        "appointmentDate": "2023-11-01"
+      },
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2022-03-03"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-total-exemption-full"
+      },
+      {
+        "date": "2025-03-25",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-15",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-01-15",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "14725866",
+    "companyName": "MYS 9294 WALLIS ROAD LTD",
+    "companyNumber": "14725866",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "90a Wallis Road, E9 5LN",
+    "incorporationDate": "2023-03-13",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-03-26",
+    "confirmationStatementLastMadeUpTo": "2025-03-12",
+    "directors": [
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2023-03-13"
+      },
+      {
+        "name": "BE CREATIVE HUB LTD",
+        "appointmentDate": "2023-03-13"
+      },
+      {
+        "name": "FREEMAN-PORTER LTD",
+        "appointmentDate": "2023-03-13"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2025-03-25",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-12",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-05-23",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-03-13",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "13846310",
+    "companyName": "MYS STONE STUDIOS LTD",
+    "companyNumber": "13846310",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios Unit D3  Studio Db12, E9 5LN",
+    "incorporationDate": "2022-01-13",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2027-01-26",
+    "confirmationStatementLastMadeUpTo": "2026-01-12",
+    "directors": [
+      {
+        "name": "BRAVERY, Victoria",
+        "appointmentDate": "2023-11-01"
+      },
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2022-01-13"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-02-06",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-02-13",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-15",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-01-15",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      }
+    ]
+  },
+  {
+    "id": "16110561",
+    "companyName": "MYS VIRTUAL ONLINE LTD",
+    "companyNumber": "16110561",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios Unit D3, E9 5LN",
+    "incorporationDate": "2024-11-29",
+    "nextAccountsDueDate": "2026-08-29",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "2026-12-12",
+    "confirmationStatementLastMadeUpTo": "2025-11-28",
+    "directors": [
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2024-11-29"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-08",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-11-29",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "12555734",
+    "companyName": "NEIGHBOURHOOD PROPERTY INVEST LTD",
+    "companyNumber": "12555734",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "34 Cotterill Road, KT6 7UN",
+    "incorporationDate": "2020-04-14",
+    "nextAccountsDueDate": "2027-01-31",
+    "lastAccountsMadeUpTo": "2025-04-30",
+    "nextConfirmationStatementDueDate": "2026-05-29",
+    "confirmationStatementLastMadeUpTo": "2025-05-15",
+    "directors": [
+      {
+        "name": "HENDERSON, Thomas David",
+        "appointmentDate": "2020-04-14"
+      },
+      {
+        "name": "LORD, Hannah Sophie",
+        "appointmentDate": "2020-04-14"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-29",
+        "type": "MR01",
+        "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-05-15",
+        "type": "CS01",
+        "description": "confirmation-statement-with-updates"
+      },
+      {
+        "date": "2025-04-15",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-11-23",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "09143269",
+    "companyName": "NUMBER 90 UK LTD",
+    "companyNumber": "09143269",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "90 Wallis Road, E9 5LN",
+    "incorporationDate": "2014-07-23",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-07-17",
+    "confirmationStatementLastMadeUpTo": "2025-07-03",
+    "directors": [
+      {
+        "name": "MARI ASSOCIATES LTD",
+        "appointmentDate": "2016-08-30"
+      },
+      {
+        "name": "CIARAMICOLI CABRAL, Bruno",
+        "appointmentDate": "2014-07-23"
+      },
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2014-07-23"
+      },
+      {
+        "name": "BRAVERY, Victoria Jane",
+        "appointmentDate": "2014-07-23"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-total-exemption-full"
+      },
+      {
+        "date": "2025-07-19",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-total-exemption-full"
+      },
+      {
+        "date": "2024-07-29",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-02-27",
+        "type": "AAMD",
+        "description": "accounts-amended-with-accounts-type-total-exemption-full"
+      }
+    ]
+  },
+  {
+    "id": "10470287",
+    "companyName": "OLIVER JANE LIMITED",
+    "companyNumber": "10470287",
+    "companyStatus": "liquidation",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "1 Radian Court, MK5 8PJ",
+    "incorporationDate": "2016-11-09",
+    "nextAccountsDueDate": "2024-12-31",
+    "lastAccountsMadeUpTo": "2023-03-31",
+    "nextConfirmationStatementDueDate": "2024-11-21",
+    "confirmationStatementLastMadeUpTo": "2023-11-07",
+    "directors": [
+      {
+        "name": "GIBSON, Charles",
+        "appointmentDate": "2016-11-09"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-06-23",
+        "type": "LIQ03",
+        "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date"
+      },
+      {
+        "date": "2024-05-10",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2024-05-10",
+        "type": "600",
+        "description": "liquidation-voluntary-appointment-of-liquidator"
+      },
+      {
+        "date": "2024-05-10",
+        "type": "RESOLUTIONS",
+        "description": "resolution"
+      },
+      {
+        "date": "2024-05-10",
+        "type": "LIQ02",
+        "description": "liquidation-voluntary-statement-of-affairs"
+      }
+    ]
+  },
+  {
+    "id": "13601061",
+    "companyName": "ORTUM CONSULTING LTD",
+    "companyNumber": "13601061",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2021-09-03",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-09-15",
+    "confirmationStatementLastMadeUpTo": "2025-09-01",
+    "directors": [
+      {
+        "name": "STRICKER, Markus Ewald",
+        "appointmentDate": "2021-09-03"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-10",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-09-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-11-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-09-04",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-12-21",
+        "type": "AA01",
+        "description": "change-account-reference-date-company-current-shortened"
+      }
+    ]
+  },
+  {
+    "id": "11832350",
+    "companyName": "PI LONDON JEWELLERY LTD",
+    "companyNumber": "11832350",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Pi London, WC1N 3AX",
+    "incorporationDate": "2019-02-18",
+    "nextAccountsDueDate": "2026-11-30",
+    "lastAccountsMadeUpTo": "2025-02-28",
+    "nextConfirmationStatementDueDate": "2026-03-03",
+    "confirmationStatementLastMadeUpTo": "2025-02-17",
+    "directors": [
+      {
+        "name": "PROCTER, Isobel Maud",
+        "appointmentDate": "2019-02-18"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-11-24",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-03-14",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-10-17",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-03-20",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-11-03",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "12193111",
+    "companyName": "PIPER CAPITAL LTD",
+    "companyNumber": "12193111",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2019-09-06",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-09-15",
+    "confirmationStatementLastMadeUpTo": "2025-09-01",
+    "directors": [
+      {
+        "name": "MCADAM, Clare",
+        "appointmentDate": "2019-09-06"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-09",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-09-05",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-11",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-09-04",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-06-12",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "13398604",
+    "companyName": "PIPER LUXURY LTD",
+    "companyNumber": "13398604",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "39 Lancaster Road, W11 1QJ",
+    "incorporationDate": "2021-05-14",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-05-27",
+    "confirmationStatementLastMadeUpTo": "2025-05-13",
+    "directors": [
+      {
+        "name": "JAYASURIYA, Nikita Ilie",
+        "appointmentDate": "2021-05-14"
+      },
+      {
+        "name": "MCADAM, Clare",
+        "appointmentDate": "2021-05-14"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-09",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-05-23",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-11",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-05-29",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-02-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "13897249",
+    "companyName": "PLENBA LIMITED",
+    "companyNumber": "13897249",
+    "companyStatus": "dissolved",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "25 Fairfield Road, BR5 1JR",
+    "incorporationDate": "2022-02-07",
+    "nextAccountsDueDate": "N/A",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "N/A",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "HAPROFF, Eleanor Ann",
+        "appointmentDate": "2022-02-07"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2022-10-25",
+        "type": "GAZ2(A)",
+        "description": "gazette-dissolved-voluntary"
+      },
+      {
+        "date": "2022-08-09",
+        "type": "GAZ1(A)",
+        "description": "gazette-notice-voluntary"
+      },
+      {
+        "date": "2022-07-31",
+        "type": "DS01",
+        "description": "dissolution-application-strike-off-company"
+      },
+      {
+        "date": "2022-02-07",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "09575488",
+    "companyName": "POLEPLANT LIMITED",
+    "companyNumber": "09575488",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "22 The Nursery, OX14 4UA",
+    "incorporationDate": "2015-05-05",
+    "nextAccountsDueDate": "2026-09-30",
+    "lastAccountsMadeUpTo": "2024-12-31",
+    "nextConfirmationStatementDueDate": "2026-05-19",
+    "confirmationStatementLastMadeUpTo": "2025-05-05",
+    "directors": [
+      {
+        "name": "NICOTRA, Gabriele",
+        "appointmentDate": "2015-05-05"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-24",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2025-05-23",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-09-10",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-05-24",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-09-21",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "14047721",
+    "companyName": "PROGRESSIVE MEDIA LIMITED",
+    "companyNumber": "14047721",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2022-04-14",
+    "nextAccountsDueDate": "2027-01-31",
+    "lastAccountsMadeUpTo": "2025-04-30",
+    "nextConfirmationStatementDueDate": "2026-06-03",
+    "confirmationStatementLastMadeUpTo": "2025-05-20",
+    "directors": [
+      {
+        "name": "HOULIHAN, Thomas Austin",
+        "appointmentDate": "2022-05-20"
+      },
+      {
+        "name": "KAIKINI, Sunil",
+        "appointmentDate": "2022-05-20"
+      },
+      {
+        "name": "MARI, Benjamin Anthony",
+        "appointmentDate": "2022-04-14"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2025-06-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-11-14",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-05-29",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "10277099",
+    "companyName": "PRONYX LTD",
+    "companyNumber": "10277099",
+    "companyStatus": "dissolved",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Earleydene Cottage, SL5 9JY",
+    "incorporationDate": "2016-07-13",
+    "nextAccountsDueDate": "N/A",
+    "lastAccountsMadeUpTo": "2022-07-31",
+    "nextConfirmationStatementDueDate": "N/A",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "WADSWORTH, Robert",
+        "appointmentDate": "2016-07-13"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2023-09-19",
+        "type": "GAZ2(A)",
+        "description": "gazette-dissolved-voluntary"
+      },
+      {
+        "date": "2023-07-04",
+        "type": "GAZ1(A)",
+        "description": "gazette-notice-voluntary"
+      },
+      {
+        "date": "2023-06-22",
+        "type": "DS01",
+        "description": "dissolution-application-strike-off-company"
+      },
+      {
+        "date": "2023-06-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2022-07-20",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "07354667",
+    "companyName": "PSL LEASING LTD",
+    "companyNumber": "07354667",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "5 Brayford Square, E1 0SG",
+    "incorporationDate": "2010-08-24",
+    "nextAccountsDueDate": "2026-03-31",
+    "lastAccountsMadeUpTo": "2024-06-30",
+    "nextConfirmationStatementDueDate": "2026-09-06",
+    "confirmationStatementLastMadeUpTo": "2025-08-23",
+    "directors": [
+      {
+        "name": "O'CONNOR, Matthew",
+        "appointmentDate": "2011-03-01"
+      },
+      {
+        "name": "ORTON, Neil Vernon",
+        "appointmentDate": "2010-08-24"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-03-24",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-09-04",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-03-16",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-total-exemption-full"
+      },
+      {
+        "date": "2023-09-13",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "07689092",
+    "companyName": "R&D INVEST LIMITED",
+    "companyNumber": "07689092",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "126b Felsham Road, SW15 1DP",
+    "incorporationDate": "2011-06-30",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-07-10",
+    "confirmationStatementLastMadeUpTo": "2025-06-26",
+    "directors": [
+      {
+        "name": "PODD, Daniel",
+        "appointmentDate": "2011-06-30"
+      },
+      {
+        "name": "WADSWORTH, Robert",
+        "appointmentDate": "2011-06-30"
+      },
+      {
+        "name": "MARI, Benjamin Anthony",
+        "appointmentDate": "2011-06-30"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-10",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-07-22",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-17",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-07-16",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-12-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "14921058",
+    "companyName": "RAD FILM STUDIOS LTD",
+    "companyNumber": "14921058",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Flat 8 37/38 Brunswick Road, BN3 1DH",
+    "incorporationDate": "2023-06-07",
+    "nextAccountsDueDate": "2026-03-31",
+    "lastAccountsMadeUpTo": "2024-06-30",
+    "nextConfirmationStatementDueDate": "2026-08-07",
+    "confirmationStatementLastMadeUpTo": "2025-07-24",
+    "directors": [
+      {
+        "name": "BARLOW, Ivor, Mr.",
+        "appointmentDate": "2023-06-07"
+      },
+      {
+        "name": "PROUSE, Marcus Hugh, Mr.",
+        "appointmentDate": "2023-06-07"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-07-24",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-07-22",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-02-27",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-02-27",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-06-19",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "10267735",
+    "companyName": "RED 7 SKI WEAR LIMITED",
+    "companyNumber": "10267735",
+    "companyStatus": "dissolved",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Unit 112, 1b (Safe & Secure24) Hadrian Business Centre, Church Street, NE47 6JG",
+    "incorporationDate": "2016-07-07",
+    "nextAccountsDueDate": "N/A",
+    "lastAccountsMadeUpTo": "2024-07-31",
+    "nextConfirmationStatementDueDate": "N/A",
+    "confirmationStatementLastMadeUpTo": "2024-07-05",
+    "directors": [
+      {
+        "name": "HAMPTON, Henrietta Naomi",
+        "appointmentDate": "2016-07-07"
+      },
+      {
+        "name": "FEARNSIDE, Christie Brienne",
+        "appointmentDate": "2016-07-07"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-02-04",
+        "type": "GAZ2(A)",
+        "description": "gazette-dissolved-voluntary"
+      },
+      {
+        "date": "2024-11-19",
+        "type": "GAZ1(A)",
+        "description": "gazette-notice-voluntary"
+      },
+      {
+        "date": "2024-11-07",
+        "type": "DS01",
+        "description": "dissolution-application-strike-off-company"
+      },
+      {
+        "date": "2024-09-25",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-07-05",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "10823646",
+    "companyName": "REEVES CHASE LIMITED",
+    "companyNumber": "10823646",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "347 Finchampstead Road, RG40 3JU",
+    "incorporationDate": "2017-06-16",
+    "nextAccountsDueDate": "2026-03-31",
+    "lastAccountsMadeUpTo": "2024-06-30",
+    "nextConfirmationStatementDueDate": "2026-06-29",
+    "confirmationStatementLastMadeUpTo": "2025-06-15",
+    "directors": [
+      {
+        "name": "EXELL, Christopher",
+        "appointmentDate": "2019-08-09"
+      },
+      {
+        "name": "EXELL, Charlotte Alanna",
+        "appointmentDate": "2017-06-16"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-03",
+        "type": "DISS40",
+        "description": "gazette-filings-brought-up-to-date"
+      },
+      {
+        "date": "2025-09-02",
+        "type": "GAZ1",
+        "description": "gazette-notice-compulsory"
+      },
+      {
+        "date": "2025-09-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-03-25",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-09-14",
+        "type": "DISS40",
+        "description": "gazette-filings-brought-up-to-date"
+      }
+    ]
+  },
+  {
+    "id": "15913462",
+    "companyName": "RG2 COMMUNICATIONS LTD",
+    "companyNumber": "15913462",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2024-08-23",
+    "nextAccountsDueDate": "2026-05-23",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "2026-09-06",
+    "confirmationStatementLastMadeUpTo": "2025-08-23",
+    "directors": [
+      {
+        "name": "HITCHEN-HILSLEY, Grace",
+        "appointmentDate": "2024-08-23"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-29",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-08-30",
+        "type": "CS01",
+        "description": "confirmation-statement-with-updates"
+      },
+      {
+        "date": "2024-08-30",
+        "type": "PSC04",
+        "description": "change-to-a-person-with-significant-control"
+      },
+      {
+        "date": "2024-08-30",
+        "type": "CH01",
+        "description": "change-person-director-company-with-change-date"
+      },
+      {
+        "date": "2024-08-23",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "13711343",
+    "companyName": "RIOT STUDIO HOVE LTD",
+    "companyNumber": "13711343",
+    "companyStatus": "dissolved",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2021-10-29",
+    "nextAccountsDueDate": "N/A",
+    "lastAccountsMadeUpTo": "2022-10-31",
+    "nextConfirmationStatementDueDate": "N/A",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "AHMED, Abubakar",
+        "appointmentDate": "2021-10-29"
+      },
+      {
+        "name": "AVERY, Greg",
+        "appointmentDate": "2021-10-29"
+      },
+      {
+        "name": "BUXTON, Harleigh",
+        "appointmentDate": "2021-10-29"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2023-10-03",
+        "type": "GAZ2(A)",
+        "description": "gazette-dissolved-voluntary"
+      },
+      {
+        "date": "2023-07-18",
+        "type": "GAZ1(A)",
+        "description": "gazette-notice-voluntary"
+      },
+      {
+        "date": "2023-07-10",
+        "type": "DS01",
+        "description": "dissolution-application-strike-off-company"
+      },
+      {
+        "date": "2023-07-10",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2022-12-23",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "12501554",
+    "companyName": "S&L ENTERTAINMENT LTD",
+    "companyNumber": "12501554",
+    "companyStatus": "dissolved",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "40a Theydon Road, E5 9NA",
+    "incorporationDate": "2020-03-06",
+    "nextAccountsDueDate": "N/A",
+    "lastAccountsMadeUpTo": "2022-03-31",
+    "nextConfirmationStatementDueDate": "N/A",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "CHANI, Samir",
+        "appointmentDate": "2020-03-06"
+      },
+      {
+        "name": "GRICIUNAS, Laimonas",
+        "appointmentDate": "2020-03-06"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2023-08-08",
+        "type": "GAZ2",
+        "description": "gazette-dissolved-compulsory"
+      },
+      {
+        "date": "2023-05-23",
+        "type": "GAZ1",
+        "description": "gazette-notice-compulsory"
+      },
+      {
+        "date": "2022-12-12",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2022-05-05",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2021-11-29",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      }
+    ]
+  },
+  {
+    "id": "14899055",
+    "companyName": "SAUNADELIC LTD",
+    "companyNumber": "14899055",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2023-05-29",
+    "nextAccountsDueDate": "2027-02-28",
+    "lastAccountsMadeUpTo": "2025-05-31",
+    "nextConfirmationStatementDueDate": "2026-06-11",
+    "confirmationStatementLastMadeUpTo": "2025-05-28",
+    "directors": [
+      {
+        "name": "FRAY, Faye Georgina",
+        "appointmentDate": "2023-05-29"
+      },
+      {
+        "name": "CROFT, Jordan Mark",
+        "appointmentDate": "2023-05-29"
+      },
+      {
+        "name": "HOPKINS, Lisa",
+        "appointmentDate": "2023-05-29"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-16",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-06-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-updates"
+      },
+      {
+        "date": "2025-02-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-08-27",
+        "type": "PSC04",
+        "description": "change-to-a-person-with-significant-control"
+      },
+      {
+        "date": "2024-08-27",
+        "type": "TM01",
+        "description": "termination-director-company-with-name-termination-date"
+      }
+    ]
+  },
+  {
+    "id": "09440776",
+    "companyName": "SECURE HOUSE LTD",
+    "companyNumber": "09440776",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Unit 20 Progress Park, Ribocon Way, LU4 9UR",
+    "incorporationDate": "2015-02-16",
+    "nextAccountsDueDate": "2026-11-30",
+    "lastAccountsMadeUpTo": "2025-02-28",
+    "nextConfirmationStatementDueDate": "2026-03-02",
+    "confirmationStatementLastMadeUpTo": "2025-02-16",
+    "directors": [
+      {
+        "name": "BUZINSKAS, Dainius",
+        "appointmentDate": "2017-11-01"
+      },
+      {
+        "name": "ZAUNIERAVICIUS, Edmundas",
+        "appointmentDate": "2015-02-16"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-11-28",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-03-14",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-11-28",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-09-04",
+        "type": "PSC04",
+        "description": "change-to-a-person-with-significant-control"
+      },
+      {
+        "date": "2024-09-04",
+        "type": "PSC04",
+        "description": "change-to-a-person-with-significant-control"
+      }
+    ]
+  },
+  {
+    "id": "07887253",
+    "companyName": "SHARE RECRUITMENT LTD",
+    "companyNumber": "07887253",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "22 Orchard Estate, RG10 9JY",
+    "incorporationDate": "2011-12-20",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2027-01-03",
+    "confirmationStatementLastMadeUpTo": "2025-12-20",
+    "directors": [
+      {
+        "name": "BRANCH, Darren",
+        "appointmentDate": "2011-12-20"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-30",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-12-09",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-12-31",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-10-16",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-01-03",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "12976739",
+    "companyName": "SOLOMON COLLIS LIMITED",
+    "companyNumber": "12976739",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "101 Green Street, TW16 6RD",
+    "incorporationDate": "2020-10-27",
+    "nextAccountsDueDate": "2026-07-31",
+    "lastAccountsMadeUpTo": "2024-10-31",
+    "nextConfirmationStatementDueDate": "2027-02-24",
+    "confirmationStatementLastMadeUpTo": "2026-02-10",
+    "directors": [
+      {
+        "name": "COLLIS, Claire",
+        "appointmentDate": "2020-10-27"
+      },
+      {
+        "name": "COLLIS, Mark Charles",
+        "appointmentDate": "2020-10-27"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-02-11",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2026-01-31",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-07-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-11-11",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-07-24",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "07594685",
+    "companyName": "SPORTS SOLUTIONS & EVENT MANAGEMENT LTD",
+    "companyNumber": "07594685",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "21 Amyand Park Road, TW1 3HB",
+    "incorporationDate": "2011-04-06",
+    "nextAccountsDueDate": "2027-01-31",
+    "lastAccountsMadeUpTo": "2025-04-30",
+    "nextConfirmationStatementDueDate": "2026-04-20",
+    "confirmationStatementLastMadeUpTo": "2025-04-06",
+    "directors": [
+      {
+        "name": "WEDGBURY, Wayne Robert",
+        "appointmentDate": "2011-04-06"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-05-28",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-05-23",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-28",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-05-24",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-01-30",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "10722082",
+    "companyName": "STARLANE CAFE & BAR LTD",
+    "companyNumber": "10722082",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "12 Cody Road, E16 4SR",
+    "incorporationDate": "2017-04-12",
+    "nextAccountsDueDate": "2027-01-31",
+    "lastAccountsMadeUpTo": "2025-04-30",
+    "nextConfirmationStatementDueDate": "2026-04-25",
+    "confirmationStatementLastMadeUpTo": "2025-04-11",
+    "directors": [
+      {
+        "name": "CABRAL, Bruno Ciaramicoli",
+        "appointmentDate": "2018-08-30"
+      },
+      {
+        "name": "CABRAL, Leandro Ciaramicoli",
+        "appointmentDate": "2017-04-12"
+      },
+      {
+        "name": "PACINI, Gustavo Augusto",
+        "appointmentDate": "2017-04-12"
+      },
+      {
+        "name": "CABRAL, Bruno Ciaramicoli",
+        "appointmentDate": "2017-04-12"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-04-28",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-13",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-11-19",
+        "type": "AAMD",
+        "description": "accounts-amended-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-05-16",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "11302067",
+    "companyName": "STUDIO 9294 LTD",
+    "companyNumber": "11302067",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios Unit D3  Studio Db12, E9 5LN",
+    "incorporationDate": "2018-04-10",
+    "nextAccountsDueDate": "2027-03-31",
+    "lastAccountsMadeUpTo": "2025-06-30",
+    "nextConfirmationStatementDueDate": "2026-04-23",
+    "confirmationStatementLastMadeUpTo": "2025-04-09",
+    "directors": [
+      {
+        "name": "CIARAMICOLI CABRAL, Bruno",
+        "appointmentDate": "2018-04-10"
+      },
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2018-04-10"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-05-22",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-15",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-01-15",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "12291805",
+    "companyName": "TAILOR M LTD",
+    "companyNumber": "12291805",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2019-10-31",
+    "nextAccountsDueDate": "2026-07-31",
+    "lastAccountsMadeUpTo": "2024-10-31",
+    "nextConfirmationStatementDueDate": "2026-11-13",
+    "confirmationStatementLastMadeUpTo": "2025-10-30",
+    "directors": [
+      {
+        "name": "MARI, Benjamin",
+        "appointmentDate": "2019-10-31"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-11-24",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-07-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-12-03",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-07-15",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2023-11-21",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "09219512",
+    "companyName": "ECOMMERCE FULFILMENT SERVICES LIMITED",
+    "companyNumber": "09219512",
+    "companyStatus": "dissolved",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "269 Church Street, FY1 3PB",
+    "incorporationDate": "2014-09-16",
+    "nextAccountsDueDate": "N/A",
+    "lastAccountsMadeUpTo": "2021-09-30",
+    "nextConfirmationStatementDueDate": "N/A",
+    "confirmationStatementLastMadeUpTo": "2022-09-16",
+    "directors": [
+      {
+        "name": "ZVIRBLIS, Evaldas",
+        "appointmentDate": "2020-03-01"
+      },
+      {
+        "name": "ROWETT, Tegen",
+        "appointmentDate": "2020-02-01"
+      },
+      {
+        "name": "ROWETT, Tegen",
+        "appointmentDate": "2014-09-16"
+      },
+      {
+        "name": "WILLS, Adam James",
+        "appointmentDate": "2018-08-05"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-10-25",
+        "type": "GAZ2",
+        "description": "gazette-dissolved-liquidation"
+      },
+      {
+        "date": "2025-07-25",
+        "type": "LIQ14",
+        "description": "liquidation-voluntary-creditors-return-of-final-meeting"
+      },
+      {
+        "date": "2024-11-09",
+        "type": "LIQ03",
+        "description": "liquidation-voluntary-statement-of-receipts-and-payments-with-brought-down-date"
+      },
+      {
+        "date": "2023-10-10",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2023-10-10",
+        "type": "600",
+        "description": "liquidation-voluntary-appointment-of-liquidator"
+      }
+    ]
+  },
+  {
+    "id": "11588306",
+    "companyName": "THE CIGARETTES & COFFEE CORPORATION LTD",
+    "companyNumber": "11588306",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2018-09-25",
+    "nextAccountsDueDate": "2026-06-30",
+    "lastAccountsMadeUpTo": "2024-09-30",
+    "nextConfirmationStatementDueDate": "2026-09-19",
+    "confirmationStatementLastMadeUpTo": "2025-09-05",
+    "directors": [
+      {
+        "name": "WOOTLIFF, Matthew James",
+        "appointmentDate": "2018-09-25"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-05",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-06-10",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-10-17",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-06-12",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2023-09-22",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "09387619",
+    "companyName": "THE HIN GROUP RECRUITMENT LIMITED",
+    "companyNumber": "09387619",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "86-90 Paul Street, EC2A 4NE",
+    "incorporationDate": "2015-01-14",
+    "nextAccountsDueDate": "2027-01-31",
+    "lastAccountsMadeUpTo": "2025-04-30",
+    "nextConfirmationStatementDueDate": "2026-07-18",
+    "confirmationStatementLastMadeUpTo": "2025-07-04",
+    "directors": [
+      {
+        "name": "HIN, Thomas",
+        "appointmentDate": "2016-01-15"
+      },
+      {
+        "name": "HIN, Thomas",
+        "appointmentDate": "2016-01-15"
+      },
+      {
+        "name": "HIN, Deborah",
+        "appointmentDate": "2015-01-14"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-07-22",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-07-22",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-01-13",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-11-11",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      }
+    ]
+  },
+  {
+    "id": "10154905",
+    "companyName": "THE NUMBER GROUP LTD",
+    "companyNumber": "10154905",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "90 Wallis Road, E9 5LN",
+    "incorporationDate": "2016-04-28",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-05-14",
+    "confirmationStatementLastMadeUpTo": "2025-04-30",
+    "directors": [
+      {
+        "name": "MARI ASSOCIATES LTD",
+        "appointmentDate": "2016-08-30"
+      },
+      {
+        "name": "CIARAMICOLI CABRAL, Bruno",
+        "appointmentDate": "2016-04-28"
+      },
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2016-04-28"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-total-exemption-full"
+      },
+      {
+        "date": "2025-05-01",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-total-exemption-full"
+      },
+      {
+        "date": "2024-05-23",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2023-12-21",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-total-exemption-full"
+      }
+    ]
+  },
+  {
+    "id": "13503203",
+    "companyName": "THE PROPERTY EVENT LTD",
+    "companyNumber": "13503203",
+    "companyStatus": "dissolved",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2021-07-09",
+    "nextAccountsDueDate": "N/A",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "N/A",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "KALRA-PHULL, Gurtej Singh",
+        "appointmentDate": "2021-07-09"
+      },
+      {
+        "name": "SAHOTA, Harpreet James",
+        "appointmentDate": "2021-07-09"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2023-05-30",
+        "type": "GAZ2",
+        "description": "gazette-dissolved-compulsory"
+      },
+      {
+        "date": "2023-02-21",
+        "type": "GAZ1",
+        "description": "gazette-notice-compulsory"
+      },
+      {
+        "date": "2022-02-11",
+        "type": "CERTNM",
+        "description": "certificate-change-of-name-company"
+      },
+      {
+        "date": "2021-08-24",
+        "type": "CS01",
+        "description": "confirmation-statement-with-updates"
+      },
+      {
+        "date": "2021-07-09",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "14790568",
+    "companyName": "THIRTY SIX PRODUCTIONS LIMITED",
+    "companyNumber": "14790568",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2023-04-10",
+    "nextAccountsDueDate": "2027-01-31",
+    "lastAccountsMadeUpTo": "2025-04-30",
+    "nextConfirmationStatementDueDate": "2026-04-23",
+    "confirmationStatementLastMadeUpTo": "2025-04-09",
+    "directors": [
+      {
+        "name": "DEVITS, Michelle",
+        "appointmentDate": "2023-04-10"
+      },
+      {
+        "name": "GIBSON, Charlie",
+        "appointmentDate": "2023-04-10"
+      },
+      {
+        "name": "OB PRIVATE LTD",
+        "appointmentDate": "2023-04-10"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-05-26",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-04-24",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-17",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-05-13",
+        "type": "CS01",
+        "description": "confirmation-statement-with-updates"
+      }
+    ]
+  },
+  {
+    "id": "04924534",
+    "companyName": "TKA MANAGEMENT LIMITED",
+    "companyNumber": "04924534",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Old Bakery, TA11 6ND",
+    "incorporationDate": "2003-10-07",
+    "nextAccountsDueDate": "2026-04-30",
+    "lastAccountsMadeUpTo": "2024-07-31",
+    "nextConfirmationStatementDueDate": "2026-06-01",
+    "confirmationStatementLastMadeUpTo": "2025-05-18",
+    "directors": [
+      {
+        "name": "WEDGBURY, Wayne Robert",
+        "appointmentDate": "2003-10-07"
+      },
+      {
+        "name": "WEDGBURY, Wayne Robert",
+        "appointmentDate": "2003-10-07"
+      },
+      {
+        "name": "JEFFERSON, Stephen Andrew",
+        "appointmentDate": "2005-04-20"
+      },
+      {
+        "name": "MILLS, Kelvin",
+        "appointmentDate": "2003-10-07"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-06-10",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2025-06-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-05-28",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-07-16",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-04-29",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "07053859",
+    "companyName": "TKA PROPERTY LTD",
+    "companyNumber": "07053859",
+    "companyStatus": "dissolved",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "21 Amyand Park Road, TW1 3HB",
+    "incorporationDate": "2009-10-22",
+    "nextAccountsDueDate": "N/A",
+    "lastAccountsMadeUpTo": "2020-10-31",
+    "nextConfirmationStatementDueDate": "N/A",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "MILLS, Kelvin",
+        "appointmentDate": "2009-10-22"
+      },
+      {
+        "name": "WEDGBURY, Wayne Robert",
+        "appointmentDate": "2009-10-22"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2022-03-29",
+        "type": "GAZ2",
+        "description": "gazette-dissolved-compulsory"
+      },
+      {
+        "date": "2022-01-11",
+        "type": "GAZ1",
+        "description": "gazette-notice-compulsory"
+      },
+      {
+        "date": "2021-07-15",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2020-12-30",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2020-10-21",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      }
+    ]
+  },
+  {
+    "id": "08049670",
+    "companyName": "TUPELO MANAGEMENT LIMITED",
+    "companyNumber": "08049670",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2012-04-27",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-05-11",
+    "confirmationStatementLastMadeUpTo": "2025-04-27",
+    "directors": [
+      {
+        "name": "VISCOVICH, Tanya Louise",
+        "appointmentDate": "2015-01-01"
+      },
+      {
+        "name": "WOOTLIFF, Matthew James",
+        "appointmentDate": "2012-04-27"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-28",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-10-10",
+        "type": "CH01",
+        "description": "change-person-director-company-with-change-date"
+      },
+      {
+        "date": "2025-10-10",
+        "type": "CH01",
+        "description": "change-person-director-company-with-change-date"
+      },
+      {
+        "date": "2025-10-09",
+        "type": "PSC04",
+        "description": "change-to-a-person-with-significant-control"
+      },
+      {
+        "date": "2025-10-08",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      }
+    ]
+  },
+  {
+    "id": "12977595",
+    "companyName": "UNSHAKABLE MARKETING LIMITED",
+    "companyNumber": "12977595",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Studio 03 Mainyard Studios, E3 2AD",
+    "incorporationDate": "2020-10-27",
+    "nextAccountsDueDate": "2027-07-31",
+    "lastAccountsMadeUpTo": "2025-10-31",
+    "nextConfirmationStatementDueDate": "2026-11-10",
+    "confirmationStatementLastMadeUpTo": "2025-10-27",
+    "directors": [
+      {
+        "name": "LANDAZ, Remi",
+        "appointmentDate": "2020-10-27"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-12-12",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-07-30",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-12-20",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-07-10",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      }
+    ]
+  },
+  {
+    "id": "11821694",
+    "companyName": "VELVET BEE COMPANY LTD",
+    "companyNumber": "11821694",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Unit 316 China Works 100 Black Prince Road, SE1 7SJ",
+    "incorporationDate": "2019-02-12",
+    "nextAccountsDueDate": "2027-01-31",
+    "lastAccountsMadeUpTo": "2025-04-30",
+    "nextConfirmationStatementDueDate": "2026-02-26",
+    "confirmationStatementLastMadeUpTo": "2025-02-12",
+    "directors": [
+      {
+        "name": "HIN, Thomas",
+        "appointmentDate": "2019-02-12"
+      },
+      {
+        "name": "HIN, Thomas",
+        "appointmentDate": "2019-02-12"
+      },
+      {
+        "name": "THE HIN GROUP RECRUITMENT LIMITED",
+        "appointmentDate": "2019-02-12"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-03-14",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-13",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-11-11",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      },
+      {
+        "date": "2024-03-20",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "09043242",
+    "companyName": "WAY OUT STUDIOS LTD",
+    "companyNumber": "09043242",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "86 Copenhagen Place, E14 7DE",
+    "incorporationDate": "2014-05-16",
+    "nextAccountsDueDate": "2027-02-28",
+    "lastAccountsMadeUpTo": "2025-05-31",
+    "nextConfirmationStatementDueDate": "2026-05-30",
+    "confirmationStatementLastMadeUpTo": "2025-05-16",
+    "directors": [
+      {
+        "name": "CABRAL, Leandro Ciaramicoli",
+        "appointmentDate": "2014-05-16"
+      },
+      {
+        "name": "KARKALAS, Tomas",
+        "appointmentDate": "2014-05-16"
+      },
+      {
+        "name": "PACINI, Gustavo Augusto",
+        "appointmentDate": "2014-05-16"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-03",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-06-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-02-26",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-05-29",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-02-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "11437318",
+    "companyName": "WEST BOAT LTD",
+    "companyNumber": "11437318",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "90 Wallis Road, E9 5LN",
+    "incorporationDate": "2018-06-28",
+    "nextAccountsDueDate": "2027-02-28",
+    "lastAccountsMadeUpTo": "2025-05-31",
+    "nextConfirmationStatementDueDate": "2026-06-20",
+    "confirmationStatementLastMadeUpTo": "2025-06-06",
+    "directors": [
+      {
+        "name": "CIARAMICOLI CABRAL, Bruno",
+        "appointmentDate": "2018-06-28"
+      },
+      {
+        "name": "MERCHANT, Mohammad Reza Aslam",
+        "appointmentDate": "2018-06-28"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-07-19",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-07-29",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-06-12",
+        "type": "AD01",
+        "description": "change-registered-office-address-company-with-date-old-address-new-address"
+      }
+    ]
+  },
+  {
+    "id": "12830702",
+    "companyName": "WFO INVEST LTD",
+    "companyNumber": "12830702",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "126b Felsham Road, SW15 1DP",
+    "incorporationDate": "2020-08-21",
+    "nextAccountsDueDate": "2026-12-31",
+    "lastAccountsMadeUpTo": "2025-03-31",
+    "nextConfirmationStatementDueDate": "2026-09-03",
+    "confirmationStatementLastMadeUpTo": "2025-08-20",
+    "directors": [
+      {
+        "name": "WADSWORTH, Robert",
+        "appointmentDate": "2020-08-21"
+      },
+      {
+        "name": "WADSWORTH JAKOBSEN, Marie Rohini",
+        "appointmentDate": "2023-03-06"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-01-19",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-09-05",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-12-12",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2024-09-04",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-05-08",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      }
+    ]
+  },
+  {
+    "id": "11974233",
+    "companyName": "WILD:NESS LTD",
+    "companyNumber": "11974233",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2019-05-01",
+    "nextAccountsDueDate": "2026-02-28",
+    "lastAccountsMadeUpTo": "2024-05-31",
+    "nextConfirmationStatementDueDate": "2026-05-14",
+    "confirmationStatementLastMadeUpTo": "2025-04-30",
+    "directors": [
+      {
+        "name": "MALCOLM, Samantha",
+        "appointmentDate": "2019-05-01"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-05-23",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-02-18",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-05-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-02-22",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2023-06-15",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "09369599",
+    "companyName": "WRITEPUSH LIMITED",
+    "companyNumber": "09369599",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "25 Fairfield Road, BR5 1JR",
+    "incorporationDate": "2014-12-30",
+    "nextAccountsDueDate": "2026-09-30",
+    "lastAccountsMadeUpTo": "2024-12-31",
+    "nextConfirmationStatementDueDate": "2027-01-13",
+    "confirmationStatementLastMadeUpTo": "2025-12-30",
+    "directors": [
+      {
+        "name": "HAPROFF, Alexander",
+        "appointmentDate": "2014-12-30"
+      },
+      {
+        "name": "HAPROFF, Eleanor Ann",
+        "appointmentDate": "2016-01-09"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2026-02-03",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-09-17",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2025-01-13",
+        "type": "PSC04",
+        "description": "change-to-a-person-with-significant-control"
+      },
+      {
+        "date": "2025-01-10",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2025-01-10",
+        "type": "PSC04",
+        "description": "change-to-a-person-with-significant-control"
+      }
+    ]
+  },
+  {
+    "id": "13705908",
+    "companyName": "YOUR HMO COACH LTD",
+    "companyNumber": "13705908",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2021-10-27",
+    "nextAccountsDueDate": "2027-07-31",
+    "lastAccountsMadeUpTo": "2025-10-31",
+    "nextConfirmationStatementDueDate": "2025-11-09",
+    "confirmationStatementLastMadeUpTo": "2024-10-26",
+    "directors": [
+      {
+        "name": "SAHOTA, Harpreet James",
+        "appointmentDate": "2021-10-27"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-11-24",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2025-07-25",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-dormant"
+      },
+      {
+        "date": "2024-11-11",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-07-24",
+        "type": "AA",
+        "description": "accounts-with-accounts-type-micro-entity"
+      },
+      {
+        "date": "2023-11-21",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      }
+    ]
+  },
+  {
+    "id": "16686851",
+    "companyName": "SAUNAGUUS LIMITED",
+    "companyNumber": "16686851",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2025-09-01",
+    "nextAccountsDueDate": "2027-06-01",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "2026-09-14",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "MARI, Benjamin Anthony",
+        "appointmentDate": "2025-09-01"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-01",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "15858868",
+    "companyName": "A&B SPV LTD",
+    "companyNumber": "15858868",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2024-07-25",
+    "nextAccountsDueDate": "2026-04-25",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "2026-08-07",
+    "confirmationStatementLastMadeUpTo": "2025-07-24",
+    "directors": [
+      {
+        "name": "MARI, Benjamin Anthony",
+        "appointmentDate": "2024-07-25"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-09-05",
+        "type": "CS01",
+        "description": "confirmation-statement-with-no-updates"
+      },
+      {
+        "date": "2024-07-25",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "16314652",
+    "companyName": "BRIGHTONLINE GROUP LTD",
+    "companyNumber": "16314652",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2025-03-13",
+    "nextAccountsDueDate": "2026-12-13",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "2026-03-26",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "AHMED, Abubakar",
+        "appointmentDate": "2025-03-13"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-03-13",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "16828731",
+    "companyName": "OLIVE ESCAPES LTD",
+    "companyNumber": "16828731",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2025-11-03",
+    "nextAccountsDueDate": "2027-08-03",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "2026-11-16",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "KENYON, Olivia",
+        "appointmentDate": "2025-11-03"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-11-03",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "16876400",
+    "companyName": "C PLUS Y LTD",
+    "companyNumber": "16876400",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "27 Old Gloucester Street, WC1N 3AX",
+    "incorporationDate": "2025-11-26",
+    "nextAccountsDueDate": "2027-08-26",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "2026-12-09",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "JAYASURIYA, Nikita Ilie",
+        "appointmentDate": "2025-11-26"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-11-26",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  },
+  {
+    "id": "16885338",
+    "companyName": "MYS 669 HIGH ROAD LTD",
+    "companyNumber": "16885338",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "registeredOfficeAddress": "Mainyard Studios, E9 5LN",
+    "incorporationDate": "2025-12-02",
+    "nextAccountsDueDate": "2027-09-02",
+    "lastAccountsMadeUpTo": "N/A",
+    "nextConfirmationStatementDueDate": "2026-12-15",
+    "confirmationStatementLastMadeUpTo": "N/A",
+    "directors": [
+      {
+        "name": "ANNE, Laetitia",
+        "appointmentDate": "2025-12-02"
+      }
+    ],
+    "filingHistory": [
+      {
+        "date": "2025-12-02",
+        "type": "NEWINC",
+        "description": "incorporation-company"
+      }
+    ]
+  }
+]
